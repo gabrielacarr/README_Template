@@ -32,7 +32,10 @@ ReadMe Template
 
 ## About The Project
 
-[![Project demo][image_demo]]()
+
+<p align="left">
+  <img width="572" alt="ProjectDemo" src="https://github.com/gabrielacarr/README_Template/blob/main/demo.png">
+</p>
 
 The '**Why**': In short, what is the purpose of this project
 
